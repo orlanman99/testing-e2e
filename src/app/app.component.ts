@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'testing-e2e';
+  points = 1;
+  numero = 10;
+
+  plus1() {
+    this.points++;
+  }
+
+  reset() {
+    this.points = 0;
+  }
 }

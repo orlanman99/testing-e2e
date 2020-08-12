@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testing-e2e"
+    }
+  },
+  "defaultProject": "testing-e2e",
+  "cli": {
+    "analytics": "8227fb14-7a67-4b45-bd6e-151acde32740"
+  }
 }
